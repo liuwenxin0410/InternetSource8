@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V3.3 Pin=J6-1
+Removed Pin From Net: NetName=V3.3 Pin=J6-2
+Removed Pin From Net: NetName=V3.3 Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J6-6
+Removed Pin From Net: NetName=GND Pin=J6-7
+Removed Pin From Net: NetName=GND Pin=J6-8
+Change Component DesignItemId : Designator=J6 Old DesignItemId=HEADER4*2 New DesignItemId=HEADER4
+Change Component Footprint: Designator=J6 Old Footprint=SIP4*2 New Footprint=SIP4
+Change Component Comment : Designator=J6 Old Comment=V3.3 New Comment=HEADER4
+Added Component: Designator=J8(SIP4)
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4

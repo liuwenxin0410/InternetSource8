@@ -1,0 +1,5 @@
+Added Component: Designator=J9(SIP4)
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=V3.3 Pin=J9-2
+Added Pin To Net: NetName=RX Pin=J9-3
+Added Pin To Net: NetName=TX Pin=J9-4

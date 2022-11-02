@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=GND Pin=J7-6
+Removed Pin From Net: NetName=GND Pin=J7-7
+Removed Pin From Net: NetName=GND Pin=J7-8
+Change Component DesignItemId : Designator=J7 Old DesignItemId=HEADER4*2 New DesignItemId=HEADER4
+Change Component Footprint: Designator=J7 Old Footprint=SIP4*2 New Footprint=SIP4

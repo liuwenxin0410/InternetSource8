@@ -1,0 +1,4 @@
+Added Component: Designator=Q1(TO247A)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetJ0_2 Pin=Q1-3

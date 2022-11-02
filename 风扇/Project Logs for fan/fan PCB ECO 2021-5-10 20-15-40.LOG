@@ -1,0 +1,18 @@
+Added Component: Designator=J6(SIP4*2)
+Added Component: Designator=J7(SIP4*2)
+Added Pin To Net: NetName=V3.3 Pin=J6-1
+Added Pin To Net: NetName=V3.3 Pin=J6-2
+Added Pin To Net: NetName=V3.3 Pin=J6-3
+Added Pin To Net: NetName=V3.3 Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=V5 Pin=J7-1
+Added Pin To Net: NetName=V5 Pin=J7-2
+Added Pin To Net: NetName=V5 Pin=J7-3
+Added Pin To Net: NetName=V5 Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J7-8

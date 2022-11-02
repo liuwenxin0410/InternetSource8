@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=C-RAD254
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=C-RAD254
+Change Component Footprint: Designator=C3 Old Footprint=0805 New Footprint=C-RAD254
+Change Component Footprint: Designator=C4 Old Footprint=0805 New Footprint=C-RAD254
+Change Component Footprint: Designator=C5 Old Footprint=0805 New Footprint=C-RAD254
+Change Component Footprint: Designator=R0 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R3 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R6 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=R-AXIAL-0.4
+Change Component Footprint: Designator=J0 Old Footprint=XH-2-SIDE New Footprint=PIN-2-2.54-1.0
+Added Component: Designator=J3(PIN-4-2.54-1.0)
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=V3.3 Pin=J3-2
+Added Pin To Net: NetName=SCL Pin=J3-3
+Added Pin To Net: NetName=SDA Pin=J3-4

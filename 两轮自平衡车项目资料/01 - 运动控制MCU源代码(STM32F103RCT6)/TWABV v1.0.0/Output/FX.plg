@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\07 - 项目\00 - 个人\10 - 两轮自平衡小车\99 - 开源整理\01 - 运动控制MCU源代码(RCT6)\TWABV v1.0.0\User\TWABV.uvproj
+Project File Date:  09/06/2014
+
+<h2>Output:</h2>
+Build target 'TWABV'
+linking...
+Program Size: Code=13812 RO-data=336 RW-data=136 ZI-data=1744  
+FromELF: creating hex file...
+"..\Output\FX.axf" - 0 Error(s), 0 Warning(s).
+Clean started: Project: 'TWABV'
+   deleting intermediate output files for target 'TWABV'

@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\StartUp -I.\User_Src -I.\Lib\inc -I.\HardWareDriver -I.\HardWareDriver\BMP180 -I.\HardWareDriver\HMC5883L -I.\HardWareDriver\IMU -I.\HardWareDriver\LED -I.\HardWareDriver\MPU6050 -I.\HardWareDriver\UART2 -I.\HardWareDriver\UARTs -I.\HardWareDriver\EEPROM -I.\HardWareDriver\BMP085 -I.\HardWareDriver\EEPROM 
+-I "C:\Program Files\Keil\ARM\RV31\INC" 
+-I "C:\Program Files\Keil\ARM\CMSIS\Include" 
+-I "C:\Program Files\Keil\ARM\Inc\ST\STM32F10x" 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o ".\Output\uarts.o" --omf_browse ".\Output\uarts.crf" --depend ".\Output\uarts.d" "HardWareDriver\UARTs\UARTs.c"

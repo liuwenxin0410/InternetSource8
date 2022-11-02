@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp
+"testuartdma1\startup_stm32f401xe.o"
+"testuartdma1\system_stm32f4xx.o"
+"testuartdma1\stm32f4xx_it.o"
+"testuartdma1\stm32f4xx_hal_msp.o"
+"testuartdma1\dma.o"
+"testuartdma1\usart.o"
+"testuartdma1\main.o"
+"testuartdma1\gpio.o"
+"testuartdma1\stm32f4xx_hal_tim_ex.o"
+"testuartdma1\stm32f4xx_hal_rcc.o"
+"testuartdma1\stm32f4xx_hal_flash_ramfunc.o"
+"testuartdma1\stm32f4xx_hal_rcc_ex.o"
+"testuartdma1\stm32f4xx_hal_tim.o"
+"testuartdma1\stm32f4xx_hal_dma_ex.o"
+"testuartdma1\stm32f4xx_hal_uart.o"
+"testuartdma1\stm32f4xx_hal_pwr_ex.o"
+"testuartdma1\stm32f4xx_hal_flash.o"
+"testuartdma1\stm32f4xx_hal_flash_ex.o"
+"testuartdma1\stm32f4xx_hal_dma.o"
+"testuartdma1\stm32f4xx_hal.o"
+"testuartdma1\stm32f4xx_hal_gpio.o"
+"testuartdma1\stm32f4xx_hal_cortex.o"
+"testuartdma1\stm32f4xx_hal_pwr.o"
+--library_type=microlib --strict --scatter "TestUARTDMA1\TestUARTDMA1.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TestUARTDMA1.map" -o TestUARTDMA1\TestUARTDMA1.axf

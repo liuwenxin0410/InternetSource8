@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision2 Build Log</h1>
+<h2>Project:</h2>
+F:\LHJ\说明文件\扩展模块\ULN2003A驱动步进电机\四相5线步进电机参考例程\lhj.uv2
+Project File Date:  03/22/2007
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling L2A-main.c...
+linking...
+Program Size: data=15.0 xdata=0 code=447
+creating hex file from "lhj"...
+"lhj" - 0 Error(s), 0 Warning(s).

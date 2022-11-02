@@ -1,0 +1,12 @@
+Added Component: Designator=K1(TSW DIP-6*6*13)
+Added Component: Designator=K2(TSW DIP-6*6*13)
+Added Component: Designator=K3(TSW DIP-6*6*13)
+Added Component: Designator=K4(TSW DIP-6*6*13)
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=PB3 PLAY Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=PB4 SET Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=PB5 VOL- Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=PB9 VOL+ Pin=K4-2
